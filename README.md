@@ -5,7 +5,7 @@
 Our recent work [LOG-LIO2](https://github.com/tiev-tongji/LOG-LIO2) and a more detailed readme are coming soon!
 
 
-The trajectory file will be saved in **TUM** format in the file named "/Log/target_file.txt".
+The trajectory file will be saved in **TUM** format in the file named "/Log/target_path.txt".
 
 The error of the trajectory is smaller than that of our paper because we fixed some bugs before open-source.
 
