@@ -2,13 +2,12 @@
 
 ----------------------------
 
-Our recent work [LOG-LIO2](https://github.com/tiev-tongji/LOG-LIO2) and a more detailed readme are coming soon!
+Our recent work [LOG-LIO2](https://github.com/tiev-tongji/LOG-LIO2) is now available!
 
 
 The trajectory file will be saved in **TUM** format in the file named "/Log/target_path.txt".
 
-The error of the trajectory is smaller than that of our paper because we fixed some bugs before open-source.
-
+And a more detailed readme is coming soon!
 
 **Related video:**  [Ring FALS](https://youtu.be/cxTLywI7X7M).
 
@@ -23,7 +22,7 @@ For **Ubuntu 18.04 or higher**, the **default** PCL and Eigen is enough for FAST
 [//]: # (ROS    >= Melodic. [ROS Installation]&#40;http://wiki.ros.org/ROS/Installation&#41;)
 
 ### 1.2 Ring FALS Normal Estimator
-compile following [Ring FALS normal estimator](https://github.com/tiev-tongji/RingFalsNormal).
+Compile follow [Ring FALS normal estimator](https://github.com/tiev-tongji/RingFalsNormal).
 
 
 ## 2. Build
